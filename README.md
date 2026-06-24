@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm AmirMohammad 👋
 
-<!--
-**AmirMohammadHeydari/AmirMohammadHeydari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer specializing in:
 
-Here are some ideas to get you started:
+- Machine Learning
+- Deep Learning
+- Signal Processing
+- Computer Vision
+- Natural Language Processing
+- Large Language Models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Data-Driven Problem Solving
+Big Data Analytics
+Data Storytelling
+Pattern Discovery in Large-Scale Datasets
+Dashboard Design and Development
+Data Analysis and Visualization
+Signal Processing
+Time Series Analysis and Forecasting
+Computer Vision and Image Processing
+Natural Language Processing (NLP)
+Large Language Models (LLMs)
+Machine Learning
+Deep Learning
+Deep Learning for Time Series Analysis
+Generative AI and Generative Deep Learning Models
+Supervised Learning
+Unsupervised Learning
+Self-Supervised Learning
+Reinforcement Learning
+Probability and Statistics
+Linear Algebra
+
+### Languages
+Python, MATLAB, C++
+
+### Frameworks
+PyTorch, TensorFlow, Scikit-learn
+
+### Domains
+Signal Processing, Comp
+uter Vision, NLP, Time Series Analysis
+
+### Tools
+Git, Docker, Linux
