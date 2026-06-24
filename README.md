@@ -11,7 +11,7 @@ AI Engineer specializing in:
 
 ## Skills
 Data-Driven Problem Solving
-Big Data Analytics
+\nBig Data Analytics
 Data Storytelling
 Pattern Discovery in Large-Scale Datasets
 Dashboard Design and Development
