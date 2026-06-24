@@ -10,26 +10,26 @@ AI Engineer specializing in:
 - Large Language Models
 
 ## Skills
-Data-Driven Problem Solving
-\nBig Data Analytics
-Data Storytelling
-Pattern Discovery in Large-Scale Datasets
-Dashboard Design and Development
-Data Analysis and Visualization
-Signal Processing
-Time Series Analysis and Forecasting
-Computer Vision and Image Processing
-Natural Language Processing (NLP)
-Large Language Models (LLMs)
-Machine Learning
-Deep Learning
-Deep Learning for Time Series Analysis
-Generative AI and Generative Deep Learning Models
-Supervised Learning
-Unsupervised Learning
-Self-Supervised Learning
-Reinforcement Learning
-Probability and Statistics
+Data-Driven Problem Solving,
+Big Data Analytics,
+Data Storytelling,
+Pattern Discovery in Large-Scale Datasets,
+Dashboard Design and Development,
+Data Analysis and Visualization,
+Signal Processing,
+Time Series Analysis and Forecasting,
+Computer Vision and Image Processing,
+Natural Language Processing (NLP),
+Large Language Models (LLMs),
+Machine Learning,
+Deep Learning,
+Deep Learning for Time Series Analysis,
+Generative AI and Generative Deep Learning Models,
+Supervised Learning,
+Unsupervised Learning,
+Self-Supervised Learning,
+Reinforcement Learning,
+Probability and Statistics and
 Linear Algebra
 
 ### Languages
